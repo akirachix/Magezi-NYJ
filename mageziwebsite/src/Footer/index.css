@@ -18,7 +18,7 @@
       background-color: #F97D30;
       padding: 10px;
       width: 40%;
-      margin-top: 10%;
+      margin-top: 9%;
       margin-right: 10%;
       margin-bottom: 14%;
       border: none;
@@ -44,14 +44,12 @@
      margin-left: -14;
       
     }
-    .icons p{
   
-    }
     input{
       margin-top: 30px;
       margin-left: 80%;
       width: 100%;
-      height: 34%;
+      height: 33%;
       border-radius: 15px;
       border: none;
     }
@@ -63,6 +61,22 @@
       box-shadow: 0 0 10px #01655E;
       transition: box-shadow 0.3s ease;
       transition: transform 0.3s ease;
+    }
+    .create{
+      margin-top: 1%;
+      width: 9%;
+     
+    }
+    .intelligent{
+      margin-top: 4%;
+      width: 6%;
+    }
+    .work{
+      margin-top: 5%;
+      width: 6%;
+    }
+    img{
+      margin-left: 12%;
     }
     .policy{
       margin-top: -2%;

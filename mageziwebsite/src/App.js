@@ -1,11 +1,13 @@
 import Portfolio from './Portfolio';
 import Footer from './Footer';
+import React from 'react';
 
 function App() {
   return (
     <div className="App">
-      <Footer/>
+     
       <Portfolio/>
+      <Footer/>
     </div>
   );
 }

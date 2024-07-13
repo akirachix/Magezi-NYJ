@@ -1,12 +1,12 @@
 import './index.css'
-import '@fontsource/libre-baskerville';
 import boom from'../Footer/footericons/boomplay.png'
 import facebook from'../Footer/footericons/facebook.png'
 import  logo from'../Footer/footericons/footerlogo.png'
 import instagram from'../Footer/footericons/instagram.png'
-import twitter from '../Footer/footericons/twiter.png'
 import  twitters from'../Footer/footericons/twitters.png'
 import youtube from'../Footer/footericons/youtube.png'
+
+
 
 
 function Footer(){
@@ -42,7 +42,7 @@ function Footer(){
                    <span><img src={facebook} alt=' facebook'/> </span>
                    <span> <img src={instagram} alt=' instagram'/></span>
                    <span> <img src={youtube} alt=' you tube'/></span>
-                   <span><img src={boom} alt=' boomplay'/> </span>
+                   {/* <span><img src={boom} alt=' boomplay'/> </span> */}
     
                 </div>
                 <div/>
