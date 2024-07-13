@@ -27,7 +27,7 @@ function Portfolio(){
                      <div> <img src={work}alt='hardwork' className='work'/><span> Hardworking</span></div>
                  
                 
-                <button> <a href="https://brenda-s-porfolio.vercel.app/"> Portfolio</a></button>
+                <button> <a href="https://brendaonportfolio.vercel.app/"> Portfolio</a></button>
                 </div>
 
                 <div className='valentine'>
