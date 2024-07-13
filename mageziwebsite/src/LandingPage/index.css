@@ -1,0 +1,87 @@
+#landingpage-info {
+    display: flex;
+    gap: 5%;
+    margin-top: 2%;
+    color: white;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.highlight{
+    color: #F97D30;
+    
+}
+#landingpage-text {
+    flex-wrap: wrap;
+    width: 70%;
+    max-width: 60%;
+    margin-top: 15%;
+    margin-left: 5%;
+    font-size: 55px;
+}
+
+#girlpic {
+    border-radius: 50%;
+    width: 180%;
+    max-width: 170%;
+    height:78%;
+    margin-left: -95%;
+    margin-top: 10%;
+    background-color: #F97D30;
+}
+
+#feature{
+    background-color: #01655E;
+    /* padding-bottom: -2%; */
+    margin-top: -1%;
+    
+}
+
+
+#text{
+    text-align: center;
+
+    
+}
+
+#icons{
+    margin-left: 28%;
+    display: flex;
+    gap: 10%;
+    color: #F97D30;
+    padding-bottom: 1.22%;
+    margin-top: -0.06%;
+}
+
+button{
+    background-color: #F97D30;
+    padding: 20px;
+    width: 10%;
+    color: #01655E;
+    font-size: 20px;
+    margin-top: 8%;
+    margin-left: 15%;
+    margin-bottom: 14%;
+    border-radius: 10px;
+    border: none;
+    /* box-shadow: 0 0 10px rgba(101, 40, 4, 0.5);
+    transition: box-shadow 0.3s ease;
+    transition: transform 0.3s ease; */
+}
+
+#btn{
+    width: 20%;
+    height: 7%;
+    margin-left: 18%;
+
+}
+
+button {
+    transition: transform 0.3s ease;
+}
+
+button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.8);
+    transform: scale(1.1) translateY(-5px);
+}
